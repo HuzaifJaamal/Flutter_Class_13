@@ -8,7 +8,7 @@ class ProfileView extends StatelessWidget {
     // Scaffold means new Screen.
     return Scaffold(
       appBar: AppBar(
-        title: Text("Hello Kese ho"),
+        title: Text("Hello"),
       ),
       body: Text("My First App"),
     );
